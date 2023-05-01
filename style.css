@@ -38,6 +38,7 @@ div.dicionario {
     background-color:#ece3cc;
     display: block;
     margin: 0 auto;
+    padding: auto;
     color: #000;
     max-width: 1024px;
     width: 100%;
@@ -51,38 +52,45 @@ div.cartao {
     vertical-align: top;
     max-width: 100%;
     display: inline-block;
-    border-radius: 2%;
+    border-radius: 1%;
+    justify-content:space-between;
 
 }
 
 div.marielle.cartao {
     background-color:#d2d09f;
     box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
+    justify-content:space-between;
 }
 
 div.lelia.cartao {
     background-color: #e9d7a9;
     box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
+    justify-content:space-between;
 }
 
 div.angela.cartao {
     background-color: #d7b395;
     box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
+    justify-content:space-between;
 }
 
 div.carolina.cartao {
     background-color: var(--cartao-amarelo);
     box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
+    justify-content:space-between;
 }
 
 div.rosa.cartao {
     background-color: var(--cartao-salmao);
     box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
+    justify-content:space-between;
 }
 
 div.conceicao.cartao {
     background-color: var(--cartao-verde);
     box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
+    justify-content:space-between;
 
 }
 
